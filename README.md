@@ -87,6 +87,8 @@ I would change the line 'int pauseBetweenNotes = noteDuration * 1.30;' to 'int p
  
 **b. What song is playing?**
 
+Star Wars!
+
 
 ## Part E. Make your own timer
 
