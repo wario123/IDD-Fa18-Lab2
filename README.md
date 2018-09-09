@@ -38,7 +38,7 @@ I would need to change the line 'lcd.print('hello, world!')' to 'lcd.print('Kari
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 
-'''
+```
 // include the library code:
 #include <LiquidCrystal.h>
 
@@ -72,7 +72,7 @@ void loop() {
   delay(500);
   
 }
-'''
+```
 
 
 ## Part C. Using a time-based digital sensor
