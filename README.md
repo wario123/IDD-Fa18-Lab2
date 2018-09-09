@@ -16,7 +16,7 @@ E) [Make your own timer](#part-e-make-your-own-timer)
 
 ## Part A. Solder your LCD panel
 
-![alt tag]()
+![alt tag](https://github.com/wario123/IDD-Fa18-Lab2/blob/master/IMG_7320.jpg)
 
 ## Part B. Writing to the LCD
  
