@@ -97,3 +97,5 @@ Star Wars!
 [Link to Beer Chugging Timer!](https://www.youtube.com/watch?v=Po7BjSpJiNE&feature=youtu.be)
 
 **b. Post a link to the completed lab report your class hub GitHub repo.**
+
+[Link to this page](https://github.com/wario123/IDD-Fa18-Lab2)
